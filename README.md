@@ -9,8 +9,8 @@ Sharing meetup sessions: Code/slides/videos and links
 
 
 ## Second Meetup 9/5/18: 
-- 1: Ahmed Adel - Modern Software Design: Slides - Video
+- 1: Ahmed Adel - Modern Software Design: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/2nd%20Meetup-Jun2018/Modern%20Software%20Design.pdf) - Video
 - 2: Hesham Halim - Massive view controller: Slides - Video 
-- 3: Khaled Mohamed - Thread Safe: Slides - Video
+- 3: Khaled Mohamed - Thread Safe: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/2nd%20Meetup-Jun2018/Threadsafe/Instabug_iOS.key) - Video
 - 4: Mohamed Hamed - Dependency Managers: Slides - Video
-- 5: Ahmed Ramy - Sharing! : Slides - Video
+- 5: Ahmed Ramy - Sharing! : [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/2nd%20Meetup-Jun2018/Blogging%20Session.key) - Video
