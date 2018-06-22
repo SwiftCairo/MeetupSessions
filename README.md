@@ -1,3 +1,6 @@
+![SwiftCairo: A cairo based Meetup group](https://raw.githubusercontent.com/Alamofire/Alamofire/master/alamofire.png)
+
+
 # MeetupSessions
 Sharing meetup sessions: Code/slides/videos and links
 
