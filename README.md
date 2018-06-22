@@ -1,4 +1,4 @@
-![SwiftCairo: A cairo based Meetup group](https://raw.githubusercontent.com/Alamofire/Alamofire/master/alamofire.png)
+![SwiftCairo: A cairo based Meetup group](https://github.com/SwiftCairo/MeetupSessions/blob/master/logo.png)
 
 
 # MeetupSessions
