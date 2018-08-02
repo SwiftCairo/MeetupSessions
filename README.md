@@ -19,3 +19,9 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 - 3: Khaled Mohamed - Thread Safe: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/2nd%20Meetup-Jun2018/Threadsafe/Instabug_iOS.key)
 - 4: Mohamed Hamed - Dependency Managers: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/2nd%20Meetup-Jun2018/Dependency%20Managers.pdf)
 - 5: Ahmed Ramy - Sharing! : [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/2nd%20Meetup-Jun2018/Blogging%20Session.key) 
+
+
+## Third Meetup 1/8/18: 
+- 1: Osama Dawood - Designer vs Developer: [Slides]
+- 2: Mohamed Ennabah/Abdolerhman Eaita - Approaches to UI-Development: [Slides]
+- 3: Osama Gamal - iOS reverse engineering: [Slides]
