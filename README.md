@@ -22,6 +22,6 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 
 
 ## Third Meetup 1/8/18: 
-- 1: Osama Dawood - Designer vs Developer: [Slides]
-- 2: Mohamed Ennabah/Abdolerhman Eaita - Approaches to UI-Development: [Slides]
-- 3: Osama Gamal - iOS reverse engineering: [Slides]
+- 1: Osama Dawood - Designer vs Developer: [Slides](https://github.com/SwiftCairo/MeetupSessions/tree/master/3rd%20Meetup-%20Aug2018/UI-Approaches)
+- 2: Mohamed Ennabah/Abdolerhman Eaita - Approaches to UI-Development: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/3rd%20Meetup-%20Aug2018/Osama-Presentation.pdf)
+- 3: Osama Gamal - iOS reverse engineering: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/3rd%20Meetup-%20Aug2018/iOSReverseEngineering1.2.pdf)
