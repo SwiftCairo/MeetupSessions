@@ -15,7 +15,7 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 
 ## Second Meetup 9/5/18: 
 - 1: Ahmed Adel - Modern Software Design: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/2nd%20Meetup-Jun2018/Modern%20Software%20Design.pdf) - [Video](https://youtu.be/DrTPet0NVo4)
-- 2: Hesham Halim - Massive view controller: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/2nd%20Meetup-Jun2018/Massive%20View%20Controller/Massive-View-Controller.pdf) - [Demo](https://github.com/SwiftCairo/MeetupSessions/tree/master/2nd%20Meetup-Jun2018/Massive%20View%20Controller/MVVMSample-master) 
+- 2: Hesham Halim - Massive view controller: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/2nd%20Meetup-Jun2018/Massive%20View%20Controller/Massive-View-Controller.pdf) - [Demo](https://github.com/SwiftCairo/MeetupSessions/tree/master/2nd%20Meetup-Jun2018/Massive%20View%20Controller/MVVMSample-master) - [Video](https://youtu.be/4MmhcvS7FHg)
 - 3: Khaled Mohamed - Thread Safe: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/2nd%20Meetup-Jun2018/Threadsafe/Instabug_iOS.key)
 - 4: Mohamed Hamed - Dependency Managers: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/2nd%20Meetup-Jun2018/Dependency%20Managers.pdf)
 - 5: Ahmed Ramy - Sharing! : [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/2nd%20Meetup-Jun2018/Blogging%20Session.key) 
