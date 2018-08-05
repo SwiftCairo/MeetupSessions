@@ -13,7 +13,7 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 - 3: Sally Ahmed - Enforcing swift style : [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/1st%20Meetup-May%202018/how%20can%20i%20enforce%20swift%20style%20-%20Sally%20Ahmed.pdf) - Video
 
 
-## Second Meetup 9/5/18: 
+## Second Meetup 20/6/18: 
 - 1: Ahmed Adel - Modern Software Design: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/2nd%20Meetup-Jun2018/Modern%20Software%20Design.pdf) - [Video](https://youtu.be/DrTPet0NVo4)
 - 2: Hesham Halim - Massive view controller: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/2nd%20Meetup-Jun2018/Massive%20View%20Controller/Massive-View-Controller.pdf) - [Demo](https://github.com/SwiftCairo/MeetupSessions/tree/master/2nd%20Meetup-Jun2018/Massive%20View%20Controller/MVVMSample-master) - [Video](https://youtu.be/4MmhcvS7FHg)
 - 3: Khaled Mohamed - Thread Safe: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/2nd%20Meetup-Jun2018/Threadsafe/Instabug_iOS.key)
