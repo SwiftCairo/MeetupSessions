@@ -1,0 +1,30 @@
+language: swift
+osx_image: xcode10
+
+before_install:
+- ts="travis-scripts"
+- bash $ts/decryptCertificates.sh
+
+install:
+- bash $ts/install_swiftlint.sh
+
+before_script:
+- bash $ts/add-keys.sh
+- bash $ts/update-bundle.sh
+
+script:
+- pod install
+- swiftlint
+- bash $ts/build.sh
+- bash $ts/validateCoverage.sh
+
+after_script:
+- bash $ts/delete-keys.sh
+
+after_success:
+- bash $ts/generateIPA.sh
+- bash $ts/ipa-upload.sh
+
+env:
+global:
+- bash $ts/set-environment.sh
