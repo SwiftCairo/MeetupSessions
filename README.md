@@ -28,6 +28,6 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 
 
 ## 4th Meetup 1/10/18: 
-- 1: Ahmed Abd ElMeguid - CI/CD : [Demo](https://github.com/SwiftCairo/MeetupSessions/tree/master/4th%20Meetup-%20Oct2018/CI-Meguid/Demo/travis-ci-pipeline-master) [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/4th%20Meetup-%20Oct2018/CI-Meguid/Slides/CI_CD%20on%20iOS.pdf)
+- 1: Ahmed Abd ElMeguid - CI/CD : [Demo](https://github.com/SwiftCairo/MeetupSessions/tree/master/4th%20Meetup-%20Oct2018/CI-Meguid/Demo/travis-ci-pipeline-master) - [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/4th%20Meetup-%20Oct2018/CI-Meguid/Slides/CI_CD%20on%20iOS.pdf)
 
 
