@@ -6,7 +6,7 @@ Welcome to the Cairo iOS Developers meetup repo. This is a repo to share our mee
 
 Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/) | 
 [Slack](http://bit.ly/Swift-Cairo-Slack) 
-| [Twitter](http://twitter.com/swiftcairo/) | [Youtube](https://www.youtube.com/channel/UC35fDS6vgZSdHol5WguMqEg?)
+| [Twitter](http://twitter.com/swiftcairo/) | [Youtube](https://www.youtube.com/channel/UC35fDS6vgZSdHol5WguMqEg?) | [Facebook](http://facebook.com/swiftcairo/)
 ## First Meetup 9/5/18: 
 - 1: Yousef Hamza - Container ViewControllers : [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/1st%20Meetup-May%202018/Instabug-Meetup.key) - Video
 - 2: Abdolerhman Eaita - Rebooting Network layer : [Slides](https://github.com/Yoloabdo/RebootingNetwork/blob/master/Rebooting%20Network.key) - [Video](https://www.youtube.com/watch?v=4SQnPJao40g&t=1028s)
