@@ -31,6 +31,6 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 - 1: Ahmed Abd ElMeguid - CI/CD : [Demo](https://github.com/SwiftCairo/MeetupSessions/tree/master/4th%20Meetup-%20Oct2018/CI-Meguid/Demo/travis-ci-pipeline-master) - [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/4th%20Meetup-%20Oct2018/CI-Meguid/Slides/CI_CD%20on%20iOS.pdf)
 
 
-## 5th Meetup 1/10/18: 
+## 5th Meetup 21/10/18: 
 - 1: Mostafa Abdellateef - User access management: [Library](https://github.com/mmabdelateef/Koosa) - [Slides](https://speakerdeck.com/mmabdelateef/access-control-management-with-swift)
 - 2: Ahmed Essam - Let's tool it! : [Code](https://github.com/aessam/SwiftCairoToolsDemo) - [Video](https://www.youtube.com/watch?v=c5c42DneGdY)
