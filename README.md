@@ -36,5 +36,5 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 - 2: Ahmed Essam - Let's tool it! : [Code](https://github.com/aessam/SwiftCairoToolsDemo) - [Video](https://www.youtube.com/watch?v=c5c42DneGdY)
 
 ## 6th meetup 30/1/19:
-- 1: Karim Ebrahem - Auto Boilerplate Code in Swift: [Demo]() - [Slides]()
+- 1: Karim Ebrahem - Auto Boilerplate Code in Swift: [Demo](https://github.com/KarimEbrahemAbdelaziz/SwiftCairoTalk) - [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/6th%20meetup/Auto%20Boilerplate%20Code%20in%20Swift.key)
 - 2: Omar Sherif = Dynamic libraries and llvm intro: [Demo]() - [Slides]()
