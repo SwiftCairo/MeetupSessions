@@ -34,3 +34,7 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 ## 5th Meetup 21/10/18: 
 - 1: Mostafa Abdellateef - User access management: [Library](https://github.com/mmabdelateef/Koosa) - [Slides](https://speakerdeck.com/mmabdelateef/access-control-management-with-swift)
 - 2: Ahmed Essam - Let's tool it! : [Code](https://github.com/aessam/SwiftCairoToolsDemo) - [Video](https://www.youtube.com/watch?v=c5c42DneGdY)
+
+## 6th meetup 30/1/19:
+- 1: Karim Ebrahem - Auto Boilerplate Code in Swift: [Demo]() - [Slides]()
+- 2: Omar Sherif = Dynamic libraries and llvm intro: [Demo]() - [Slides]()
