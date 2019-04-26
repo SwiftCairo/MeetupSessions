@@ -37,4 +37,9 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 
 ## 6th meetup 30/1/19:
 - 1: Karim Ebrahem - Auto Boilerplate Code in Swift: [Demo](https://github.com/KarimEbrahemAbdelaziz/SwiftCairoTalk) - [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/6th%20meetup/Auto%20Boilerplate%20Code%20in%20Swift.key)
-- 2: Omar Sherif = Dynamic libraries and llvm intro: [Demo]() - [Slides]()
+- 2: Omar Sherif - Dynamic libraries and llvm intro: [Demo]() - [Slides]()
+
+## 7th meetup 24/4/19:
+- 1: Attia Mohamedin: [Demo]() - [Slides]()
+- 2: Ahmed Ramy: : [Demo](https://github.com/ARamy23/Vapor-Init) - [Slides]()
+- Abdoelrahman Eaita: Design patterns in practice [Article](https://blog.usejournal.com/practical-uses-of-design-patterns-in-ios-development-command-pattern-c58941d6cc99)
