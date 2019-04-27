@@ -40,6 +40,6 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 - 2: Omar Sherif - Dynamic libraries and llvm intro: [Demo]() - [Slides]()
 
 ## 7th meetup 24/4/19:
-- 1: Attia Mohamedin: [Demo]() - [Slides]()
+- 1: [Attia Mohamedein](https://twitter.com/attiamothedev): [Slides](https://speakerdeck.com/attiamohamedein/intro-to-reactive-programming-in-ios-using-rxswift)
 - 2: Ahmed Ramy: : [Demo](https://github.com/ARamy23/Vapor-Init) - [Slides]()
 - Abdoelrahman Eaita: Design patterns in practice [Article](https://blog.usejournal.com/practical-uses-of-design-patterns-in-ios-development-command-pattern-c58941d6cc99)
