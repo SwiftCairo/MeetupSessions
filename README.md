@@ -1,4 +1,4 @@
-![SwiftCairo: A cairo based Meetup group](https://github.com/SwiftCairo/MeetupSessions/blob/master/logo.png)
+![SwiftCairo: A cairo based Meetup group](https://github.com/SwiftCairo/MeetupSessions/blob/master/cover-pic.png)
 
 
 # MeetupSessions
