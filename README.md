@@ -51,6 +51,6 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 
 ## 9th meetup 17/09/19:
 - 1: Omar Sherif - Back to future: [Slides](https://github.com/cg-jedi/Swift_Cairo_Talk_2)
-- 2: Fadi Botros - Multithreading & Parallelism: [Slides]()
+- 2: Fadi Botros - Multithreading & Parallelism: [Slides](https://github.com/SwiftCairo/MeetupSessions/tree/master/9th%20meetup/Fadi%20Botros)
 
 Videos are coming soon to our [Youtube channel](https://www.youtube.com/channel/UC35fDS6vgZSdHol5WguMqEg) so subscribe there!
