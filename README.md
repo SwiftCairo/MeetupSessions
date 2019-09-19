@@ -7,6 +7,7 @@ Welcome to the Cairo iOS Developers meetup repo. This is a repo to share our mee
 Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/) | 
 [Slack](http://bit.ly/Swift-Cairo-Slack) 
 | [Twitter](http://twitter.com/swiftcairo/) | [Youtube](https://www.youtube.com/channel/UC35fDS6vgZSdHol5WguMqEg?) | [Facebook](http://facebook.com/swiftcairo/)
+
 ## First Meetup 9/5/18: 
 - 1: Yousef Hamza - Container ViewControllers : [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/1st%20Meetup-May%202018/Instabug-Meetup.key) - Video
 - 2: Abdolerhman Eaita - Rebooting Network layer : [Slides](https://github.com/Yoloabdo/RebootingNetwork/blob/master/Rebooting%20Network.key) - [Video](https://www.youtube.com/watch?v=4SQnPJao40g&t=1028s)
@@ -37,7 +38,7 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 
 ## 6th meetup 30/1/19:
 - 1: Karim Ebrahem - Auto Boilerplate Code in Swift: [Demo](https://github.com/KarimEbrahemAbdelaziz/SwiftCairoTalk) - [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/6th%20meetup/Auto%20Boilerplate%20Code%20in%20Swift.key)
-- 2: Omar Sherif - Dynamic libraries and llvm intro: [Demo]() - [Slides]()
+- 2: Omar Sherif - Dynamic libraries and llvm intro: [Slides & Demo]()
 
 ## 7th meetup 24/4/19:
 - 1: [Attia Mohamedein](https://twitter.com/attiamothedev): [Slides](https://speakerdeck.com/attiamohamedein/intro-to-reactive-programming-in-ios-using-rxswift)
@@ -47,5 +48,9 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 ## 8th meetup 3/07/19:
 - 1: Ehab Amer - Memory Management In Swift: [Slides](https://www.dropbox.com/s/9yy7jyjlrjevf72/Memory%20Managment.zip?dl=0)
 - 2: Ahmed Khalf -  Async Drwaing: : [Slides & Demo](https://github.com/ahmedk92/AsyncDrawing)
+
+## 9th meetup 17/09/19:
+- 1: Omar Sherif - Back to future: [Slides](https://github.com/cg-jedi/Swift_Cairo_Talk_2)
+- 2: Fadi Botros - Multithreading & Parallelism: [Slides]()
 
 Videos are coming soon to our [Youtube channel](https://www.youtube.com/channel/UC35fDS6vgZSdHol5WguMqEg) so subscribe there!
