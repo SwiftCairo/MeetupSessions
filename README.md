@@ -54,7 +54,7 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 - 2: Fadi Botros - Multithreading & Parallelism: [Slides](https://github.com/SwiftCairo/MeetupSessions/tree/master/9th%20meetup/Fadi%20Botros)
 
 ## 10th meetup 12/11/19:
-- 1: Peter Mosaad - Conductors & Boundaries: [Slides](https://drive.google.com/open?id=1dxUwSx6Lf03T63UjAePc_shogHAEoW40t-DTqnF7Xtk)[Demo](https://github.com/PeterMosaad/conductors-demo)
-- 2: Magdi Zamel - Advanced CollectionView Layout: [Slides- soon]
+- 1: Peter Mosaad - Conductors & Boundaries: [Slides](https://drive.google.com/open?id=1dxUwSx6Lf03T63UjAePc_shogHAEoW40t-DTqnF7Xtk) / [Demo](https://github.com/PeterMosaad/conductors-demo)
+- 2: Magdy Zamel - Advanced CollectionView Layout: [Slides- soon]
 
 Videos are coming soon to our [Youtube channel](https://www.youtube.com/channel/UC35fDS6vgZSdHol5WguMqEg) so subscribe there!
