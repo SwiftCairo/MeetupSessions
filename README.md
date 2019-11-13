@@ -46,7 +46,7 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 - 3: Abdoelrahman Eaita: Design patterns in practice [Article](https://blog.usejournal.com/practical-uses-of-design-patterns-in-ios-development-command-pattern-c58941d6cc99)
 
 ## 8th meetup 3/07/19:
-- 1: Ehab Amer - Memory Management In Swift: [Slides](https://www.dropbox.com/s/9yy7jyjlrjevf72/Memory%20Managment.zip?dl=0)[Code](https://github.com/PeterMosaad/conductors-demo)
+- 1: Ehab Amer - Memory Management In Swift: [Slides](https://www.dropbox.com/s/9yy7jyjlrjevf72/Memory%20Managment.zip?dl=0)
 - 2: Ahmed Khalf -  Async Drwaing: : [Slides & Demo](https://github.com/ahmedk92/AsyncDrawing)
 
 ## 9th meetup 17/09/19:
@@ -54,7 +54,7 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 - 2: Fadi Botros - Multithreading & Parallelism: [Slides](https://github.com/SwiftCairo/MeetupSessions/tree/master/9th%20meetup/Fadi%20Botros)
 
 ## 10th meetup 12/11/19:
-- 1: Peter Mosaad - Conductors & Boundaries: [Slides](https://drive.google.com/open?id=1dxUwSx6Lf03T63UjAePc_shogHAEoW40t-DTqnF7Xtk)
-- 2: Magdi Zamel - Advanced CollectionView Layout: [Slides](Soon)
+- 1: Peter Mosaad - Conductors & Boundaries: [Slides](https://drive.google.com/open?id=1dxUwSx6Lf03T63UjAePc_shogHAEoW40t-DTqnF7Xtk)[Demo](https://github.com/PeterMosaad/conductors-demo)
+- 2: Magdi Zamel - Advanced CollectionView Layout: [Slides- soon]
 
 Videos are coming soon to our [Youtube channel](https://www.youtube.com/channel/UC35fDS6vgZSdHol5WguMqEg) so subscribe there!
