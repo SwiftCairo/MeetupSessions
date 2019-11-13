@@ -53,4 +53,8 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 - 1: Omar Sherif - Back to future: [Slides](https://github.com/cg-jedi/Swift_Cairo_Talk_2)
 - 2: Fadi Botros - Multithreading & Parallelism: [Slides](https://github.com/SwiftCairo/MeetupSessions/tree/master/9th%20meetup/Fadi%20Botros)
 
+## 10th meetup 12/11/19:
+- 1: Peter Mosaad - Conductors & Boundaries: [Slides](https://drive.google.com/open?id=1dxUwSx6Lf03T63UjAePc_shogHAEoW40t-DTqnF7Xtk)
+- 2: Magdi Zamel - Advanced CollectionView Layout: [Slides](Soon)
+
 Videos are coming soon to our [Youtube channel](https://www.youtube.com/channel/UC35fDS6vgZSdHol5WguMqEg) so subscribe there!
