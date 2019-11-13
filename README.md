@@ -6,7 +6,7 @@
 Welcome to the Cairo iOS Developers meetup repo. This is a repo to share our meetup materials(videos/Slides). 
 
 Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/) | 
-[Slack](http://bit.ly/Swift-Cairo-Slack) 
+[Slack](https://join.slack.com/t/swiftcairo/shared_invite/enQtMzUwMzI4ODc4NDMyLTM5NTQyYjFhZGJkNThjZjhmZTIxNmU4MDI1MDJjNDI5NDI5YWNjY2NkOTU1MDc3NzJjNjViZGMzMDljZWU2Zjk) 
 | [Twitter](http://twitter.com/swiftcairo/) | [Youtube](https://www.youtube.com/channel/UC35fDS6vgZSdHol5WguMqEg?) | [Facebook](http://facebook.com/swiftcairo/)
 
 ## First Meetup 9/5/18: 
