@@ -1,5 +1,5 @@
-<p aligh="center">
-![SwiftCairo: A cairo based Meetup group](https://github.com/SwiftCairo/MeetupSessions/blob/master/cover-pic.png)
+<p align="center">
+  <img alt="SwiftCairo: A cairo based Meetup group" src="https://github.com/SwiftCairo/MeetupSessions/blob/master/cover-pic.png">
 </p>
 
 # MeetupSessions
