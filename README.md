@@ -59,7 +59,7 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 - 2: Magdy Zamel - Advanced CollectionView Layout: [Slides](https://drive.google.com/open?id=1VEPyfL3a4iqIU6gnQxDPftiF1KkIgsOl) - [Demo](https://github.com/MagdyZamel/MSZCollectionViewLayout)
 
 ## 11th meetup 25/12/19:
-- 1: Attia Mo - Code Reveiw: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/11th%20meetup/AttiaMo%20-%20CodeReview.pdf) - [Video] (https://www.youtube.com/watch?v=NRHoElHgekE)
+- 1: Attia Mo - Code Reveiw: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/11th%20meetup/AttiaMo%20-%20CodeReview.pdf) - [Video](https://www.youtube.com/watch?v=NRHoElHgekE)
 
 All Videos are on our [Youtube channel](https://www.youtube.com/swiftcairo) so subscribe there!
 
