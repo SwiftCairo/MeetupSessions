@@ -60,7 +60,7 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 
 ## 11th meetup 25/12/19:
 - 1: Attia Mo - Code Reveiw: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/11th%20meetup/AttiaMo%20-%20CodeReview.pdf) - [Video](https://www.youtube.com/watch?v=NRHoElHgekE)
-
+- 2: Live Q & A with Moustafa Nagueeb: [Video](https://www.youtube.com/watch?v=QTD1_ru9kY0)
 All Videos are on our [Youtube channel](https://www.youtube.com/swiftcairo) so subscribe there!
 
 
