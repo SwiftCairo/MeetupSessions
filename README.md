@@ -64,8 +64,7 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 ## 12th meetup 18/03/20:
 - 1: Shady Selim - Kotlin native for iOS and Android: [Slides](https://www.slideshare.net/bagaa/kotlin-native-for-ios-and-android)
 - 2: Olla Ashour - Debugging and Xcode Tools: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/12th/Advanced%20Debugging%20and%20Xcode%20Tips.pdf)
-
-Video: [Youtube](https://www.youtube.com/watch?v=FxihiBN1f60&fbclid=IwAR2tIwP5EhpAC_BcqRNODffyzuARz8VxY1JOrFkZEmd3aQ8ilvsqf2yq7Jw)
+- 3: Video: [Youtube](https://www.youtube.com/watch?v=FxihiBN1f60&fbclid=IwAR2tIwP5EhpAC_BcqRNODffyzuARz8VxY1JOrFkZEmd3aQ8ilvsqf2yq7Jw)
 
 
 All Videos are on our [Youtube channel](https://www.youtube.com/swiftcairo) so subscribe there!
