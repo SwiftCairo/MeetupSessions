@@ -66,6 +66,9 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 - 2: Olla Ashour - Debugging and Xcode Tools: [Slides](https://github.com/SwiftCairo/MeetupSessions/blob/master/12th/Advanced%20Debugging%20and%20Xcode%20Tips.pdf)
 - 3: Video: [Youtube](https://www.youtube.com/watch?v=FxihiBN1f60&fbclid=IwAR2tIwP5EhpAC_BcqRNODffyzuARz8VxY1JOrFkZEmd3aQ8ilvsqf2yq7Jw)
 
+## 13th meetup 18/01/2023: 
+- 1: Marcel Adel - How to build a stable system.
+- 2: Ahmed Ramy - Architecture Homicide.
 
 All Videos are on our [Youtube channel](https://www.youtube.com/swiftcairo) so subscribe there!
 
