@@ -27,4 +27,5 @@ Stay Connected:
 
 - LinkedIn: https://www.linkedin.com/in/aramy23/
 - Twitter: https://twitter.com/iDevAR23
+
 Feel free to connect with me on LinkedIn or Twitter if you have any questions or want to discuss further on this topic.
