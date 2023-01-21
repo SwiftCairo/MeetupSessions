@@ -68,7 +68,7 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 
 ## 13th meetup 18/01/2023: 
 - 1: Marcel Adel - How to build a stable system.
-- 2: Ahmed Ramy - Architecture Homicide.
+- 2: Ahmed Ramy - Architecture Homicide. [Slides & Recommendations](https://github.com/SwiftCairo/MeetupSessions/tree/master/13th%20meetup/Architecture%20Homicide)
 
 All Videos are on our [Youtube channel](https://www.youtube.com/swiftcairo) so subscribe there!
 
