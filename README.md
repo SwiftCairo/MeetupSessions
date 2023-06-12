@@ -70,6 +70,10 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 - 1: Marcel Adel - How to build a stable system. [Slides](https://github.com/SwiftCairo/MeetupSessions/tree/master/13th%20meetup/How%20to%20build%20a%20stable%20system)
 - 2: Ahmed Ramy - Architecture Homicide. [Slides & Recommendations](https://github.com/SwiftCairo/MeetupSessions/tree/master/13th%20meetup/Architecture%20Homicide)
 
+## 14th meetup 07/06/2023: 
+- 1: Osama Gamal - Modular iOS Architecture: Large Scale Apps. [Demo & Slides](https://github.com/SwiftCairo/MeetupSessions/tree/master/14th%20meetup%20-%20June%202023/Modular%20iOS%20Architecture)
+- 2: Ahmed Hassan - Clean Architecture with MVVM-IO. [Demo & Slides](https://github.com/SwiftCairo/MeetupSessions/tree/master/14th%20meetup%20-%20June%202023/Clean%20Architecture%20With%20MVVM)
+
 All Videos are on our [Youtube channel](https://www.youtube.com/swiftcairo) so subscribe there!
 
 
