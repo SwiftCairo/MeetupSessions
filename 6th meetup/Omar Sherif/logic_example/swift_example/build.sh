@@ -1,1 +1,0 @@
-/home/$USER/Clones/swift-4.2.1/usr/bin/swiftc -emit-ir -O swift_example.swift > swift_example.ll
