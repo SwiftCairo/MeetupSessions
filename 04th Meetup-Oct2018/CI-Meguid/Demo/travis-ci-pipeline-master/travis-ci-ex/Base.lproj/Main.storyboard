@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13173"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Start-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="Start" customModule="travis_ci_ex" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VB3-Bn-bxb">
+                                <rect key="frame" x="135" y="20" width="105" height="30"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <state key="normal" title="Don't touch me"/>
+                                <connections>
+                                    <action selector="acitonDone:" destination="BYZ-38-t0r" eventType="touchUpInside" id="boT-OF-9ce"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9lm-D2-yav">
+                                <rect key="frame" x="108" y="637" width="159" height="30"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <state key="normal" title="I'm Okay to be touched"/>
+                                <connections>
+                                    <action selector="acitonDone:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Ezm-sY-MCJ"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="No Problem" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dcM-sO-Pzp">
+                                <rect key="frame" x="142" y="333" width="90" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="dcM-sO-Pzp" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="0Sn-wn-00v"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="9lm-D2-yav" secondAttribute="bottom" id="JB2-Xx-GA5"/>
+                            <constraint firstItem="VB3-Bn-bxb" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="Jmg-gg-4Kg"/>
+                            <constraint firstItem="dcM-sO-Pzp" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="MeM-8h-JvA"/>
+                            <constraint firstItem="VB3-Bn-bxb" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="Ugk-ou-GY4"/>
+                            <constraint firstItem="9lm-D2-yav" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="VmZ-pm-v0K"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="statusButton" destination="dcM-sO-Pzp" id="GyE-cb-MdS"/>
+                        <outletCollection property="actionButtons" destination="VB3-Bn-bxb" collectionClass="NSMutableArray" id="Yns-s5-hfA"/>
+                        <outletCollection property="actionButtons" destination="9lm-D2-yav" collectionClass="NSMutableArray" id="09G-Ma-a5X"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="136.80000000000001" y="132.68365817091455"/>
+        </scene>
+    </scenes>
+</document>

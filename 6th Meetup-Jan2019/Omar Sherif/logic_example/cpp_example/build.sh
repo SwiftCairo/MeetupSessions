@@ -1,1 +1,0 @@
-clang++ -O1 -S -emit-llvm cpp_example.cpp -o cpp_example.ll

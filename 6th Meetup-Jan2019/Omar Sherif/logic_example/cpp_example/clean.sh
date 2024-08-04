@@ -1,1 +1,0 @@
-rm -rf cpp_example cpp_example.ll cpp_example.s
