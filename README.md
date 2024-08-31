@@ -96,4 +96,10 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 - 1: [Ahmed Salah](https://eg.linkedin.com/in/ahmedsalah196) - Quality Practices. [Slides](16th%20Meetup-July2024/Quality%20Pracatices%20%7C%20Ahmed%20Salah)
 - 2: [Mostafa Nafie](https://eg.linkedin.com/in/mostafanafie) - Demystifying Dependency Injection. [Slides](16th%20Meetup-July2024/Demystifying%20Dependency%20Injection%20%7C%20Mostafa%20Nafie)
 
-All Videos are on our [Youtube channel](https://www.youtube.com/swiftcairo) so subscribe there!
+## 17th Meetup 28/08/24:
+📍 Hosted by: [Klivvr](https://www.klivvr.com/)
+- 1: [Norhan Boghdadi](https://eg.linkedin.com/in/norhan-boghdadi) | [Shehab Elnoury](https://eg.linkedin.com/in/shehabelnoury) - Bridging Design and Development. [Slides](17th%20Meetup-Aug2024/Bridging%20Design%20and%20Development%20%7C%20Norhan%20Boghdadi%20-%20Shehab%20Elnoury/Bridging%20Design%20and%20Development.pdf)
+- 2: [Ahmad Yasser](https://eg.linkedin.com/in/ahmad-yasser-294406191) | [Hatem Abdallah](https://www.linkedin.com/in/hatemabdallah/) - Mobile Security - Hardening iOS Apps. [Slides](17th%20Meetup-Aug2024/Mobile%20Security%20-%20Hardening%20iOS%20Apps%20%7C%20Ahmad%20Yasser%20-%20Hatem%20Abdallah)
+- 3: [Ahmed Ramzy](https://eg.linkedin.com/in/iramzyy) | [Asmaa Magdy](https://eg.linkedin.com/in/asmaamagdy) | [Mostafa Arous](https://www.linkedin.com/in/mostafa-arous-848909142/) - The Power of Mobile Events & A/B Testing. [Slides](17th%20Meetup-Aug2024/The%20Power%20of%20Mobile%20Events%20%26%20A%3AB%20Testing%20%7C%20Ahmed%20Ramzy%20%7C%20Asmaa%20Magdy%20%7C%20Mostafa%20Arous)
+
+All videos are on our [YouTube channel](https://www.youtube.com/swiftcairo), so subscribe!
