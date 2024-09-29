@@ -102,4 +102,9 @@ Join us: [Meetup.com](https://www.meetup.com/Swift-Cairo-iOS-Developers-Meetup/)
 - 2: [Ahmad Yasser](https://eg.linkedin.com/in/ahmad-yasser-294406191) | [Hatem Abdallah](https://www.linkedin.com/in/hatemabdallah/) - Mobile Security - Hardening iOS Apps. [Slides](17th%20Meetup-Aug2024/Mobile%20Security%20-%20Hardening%20iOS%20Apps%20%7C%20Ahmad%20Yasser%20-%20Hatem%20Abdallah)
 - 3: [Ahmed Ramzy](https://eg.linkedin.com/in/iramzyy) | [Asmaa Magdy](https://eg.linkedin.com/in/asmaamagdy) | [Mostafa Arous](https://www.linkedin.com/in/mostafa-arous-848909142/) - The Power of Mobile Events & A/B Testing. [Slides](17th%20Meetup-Aug2024/The%20Power%20of%20Mobile%20Events%20%26%20A%3AB%20Testing%20%7C%20Ahmed%20Ramzy%20%7C%20Asmaa%20Magdy%20%7C%20Mostafa%20Arous)
 
+## 18th Meetup 07/06/23:
+📍 Hosted by: [Areeb Technologies](https://www.areebtechnology.com/)
+- 1: [Mohamed Gamal](https://eg.linkedin.com/in/mohamed-gamal00) - The Winning Formula for Mobile Design system. [Slides](18th%20Meetup-Sep2024/The%20Winning%20Formula%20for%20Mobile%20Design%20system%20%7C%20Mohamed%20Gamal)
+- 2: [Diaa Hassan](https://eg.linkedin.com/in/diaa-hasan) - Mobile Releases. [Slides](18th%20Meetup-Sep2024/Mobile%20Releases%20%7C%20Diaa%20Hassan)
+
 All videos are on our [YouTube channel](https://www.youtube.com/swiftcairo), so subscribe!
